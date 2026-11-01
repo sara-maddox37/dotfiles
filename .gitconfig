@@ -1,0 +1,13 @@
+[user]
+    name = Casey
+    email = sara-maddox37@users.noreply.github.com
+[core]
+    editor = vim
+    autocrlf = input
+[pull]
+    rebase = true
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    ci = commit
